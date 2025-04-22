@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable react/react-in-jsx-scope */
 import { useEffect, useState } from 'react'
-import Search from './components/Search.jsx'
+import Search from './components/search.jsx'
 import Spinner from './components/Spinner.jsx'
 import MovieCard from './components/movieCard.jsx'
 import { useDebounce } from 'react-use'
